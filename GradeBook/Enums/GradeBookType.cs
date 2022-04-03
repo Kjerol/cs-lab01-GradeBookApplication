@@ -12,4 +12,7 @@ namespace GradeBook.Enums
         OneToFour, 
         SixPoint
     }
+
 }
+
+
